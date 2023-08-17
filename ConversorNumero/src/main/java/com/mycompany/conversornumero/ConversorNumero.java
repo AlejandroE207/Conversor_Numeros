@@ -22,9 +22,6 @@ public class ConversorNumero {
                 "\nNumero en binario: "+Integer.toBinaryString(decimalNumber)+
                 "\nNumero en octal: "+Integer.toOctalString(decimalNumber)+
                 "\nNumero en hexadecimal: "+Integer.toHexString(decimalNumber));
-//        System.out.println("Número decimal ingresado: " + decimalNumber);
-//        System.out.println("Número en binario: " + Integer.toBinaryString(decimalNumber));
-//        System.out.println("Número en octal: " + Integer.toOctalString(decimalNumber));
-//        System.out.println("Número en hexadecimal: " + Integer.toHexString(decimalNumber));
+
     }
 }
